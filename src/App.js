@@ -6,7 +6,7 @@ import { Element } from "react-scroll";
 
 //Components
 
-import Footer from "./Components/Footer";
+import Footer from "./Components/Footer"; 
 
 //Pages
 import Homepage from "./Pages/Homepage";
